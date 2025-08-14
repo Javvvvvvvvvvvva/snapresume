@@ -2,7 +2,7 @@
 
 A modern, feature-rich resume builder built with React, TypeScript, and Tailwind CSS. Create professional, ATS-friendly resumes with an intuitive split-screen editor and live preview.
 
-## 🚀 Features
+## Features
 
 ### Core Functionality
 - **Split Screen Layout**: Edit on the left, live preview on the right
@@ -27,7 +27,7 @@ A modern, feature-rich resume builder built with React, TypeScript, and Tailwind
 - **Accessibility**: Keyboard navigation and semantic HTML
 - **Onboarding Flow**: 5 simple questions to get started quickly
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend**: React 18 + TypeScript + Vite
 - **Styling**: Tailwind CSS + shadcn/ui components
@@ -38,7 +38,7 @@ A modern, feature-rich resume builder built with React, TypeScript, and Tailwind
 - **PDF Export**: html2pdf.js + react-to-print
 - **Icons**: Lucide React
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repository**
    ```bash
@@ -59,7 +59,7 @@ A modern, feature-rich resume builder built with React, TypeScript, and Tailwind
 4. **Open your browser**
    Navigate to `http://localhost:3000`
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 src/
@@ -87,7 +87,7 @@ src/
 └── main.tsx               # Entry point
 ```
 
-## 🎯 Usage
+## Usage
 
 ### Getting Started
 1. **Onboarding**: Answer 5 simple questions to populate your resume
@@ -107,7 +107,7 @@ src/
 - **Switch Between**: Easily switch between different versions
 - **Clone & Modify**: Duplicate existing versions for customization
 
-## 🎨 Templates
+## Templates
 
 ### ClassicATS Template
 - Clean, professional design
@@ -116,7 +116,7 @@ src/
 - Optimized for scanning
 - Print-ready styling
 
-## 📱 Responsive Design
+## Responsive Design
 
 The application is fully responsive and works on:
 - Desktop computers
@@ -124,7 +124,7 @@ The application is fully responsive and works on:
 - Mobile devices
 - Print media
 
-## 🖨️ Print & Export
+## Print & Export
 
 ### Print Features
 - Optimized margins and spacing
@@ -152,7 +152,7 @@ The application is fully responsive and works on:
 - Prettier for code formatting
 - Semantic HTML structure
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 ### Phase 2 Features
 - Multiple template designs
@@ -167,7 +167,7 @@ The application is fully responsive and works on:
 - Job matching
 - Interview preparation tools
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -175,18 +175,18 @@ The application is fully responsive and works on:
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Built with modern web technologies
 - Inspired by professional resume builders
 - Designed for job seekers and professionals
 - Optimized for ATS systems
 
-## 📞 Support
+## Support
 
 For questions or support, please open an issue on GitHub or contact the development team.
 
